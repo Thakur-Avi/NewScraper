@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import mysql.connector
 
 
-
+#hello
 def writing_json(records):
     datas = []
     for record in records:
